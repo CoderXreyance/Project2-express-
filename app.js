@@ -5,7 +5,8 @@ app.use(express.json());
 let students =[
     {id:1,name:"reyansh"},
     {id:2,name:"utsav"},
-    {id:3,name:"avi"}
+    {id:3,name:"avi"},
+    {id:4,name:"mayank"}
 ]
 
 //sending students detail to the client
