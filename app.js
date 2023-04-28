@@ -6,7 +6,8 @@ let students =[
     {id:1,name:"reyansh"},
     {id:2,name:"utsav"},
     {id:3,name:"avi"},
-    {id:4,name:"mayank"}
+    {id:4,name:"mayank"},
+    {id:5,name:"koshik"}
 ]
 
 //sending students detail to the client
